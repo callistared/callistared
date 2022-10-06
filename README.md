@@ -1,6 +1,6 @@
 🍓Birthday: June 16
 
-🧸 Currently Learning: 
+🧸 Learned/Currently Learning: 
 HTML,
 CSS,
 JavaScript,
