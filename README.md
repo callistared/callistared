@@ -1,5 +1,3 @@
-🍓Birthday: June 16
-
 🧸 Learned/Currently Learning: 
 HTML,
 CSS,
